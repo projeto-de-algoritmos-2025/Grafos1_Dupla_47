@@ -24,7 +24,7 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Difícil | [Vídeo]() |
-| [--]() | Difícil | [Vídeo]() |
+| [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree) | Difícil | [Vídeo]() |
 | [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Médio | [Vídeo]() |
 
 
@@ -36,7 +36,7 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 
 ### Exercício 02 
 
-![Texto alternativo](caminho/para/imagem.png)
+![834 - Foto da resolução no Leet Code](resources/834.png)
 
 ### Exercício 03 
 
