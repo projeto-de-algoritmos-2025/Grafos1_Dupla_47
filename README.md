@@ -46,10 +46,6 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 
 ## Vídeo de apresentação do Trabalho 1
 
-**Arquivo:**
-
-[Vídeo](resources/video-explicativo.mp4)
-
 **Link:**
 
 [Vídeo](https://www.tella.tv/video/projetos-de-algoritimos-or-grafos-1-egk2?t=340)
