@@ -23,9 +23,9 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Difícil | [Vídeo]() |
-| [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree) | Difícil | [Vídeo]() |
-| [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Médio | [Vídeo]() |
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Difícil | [Vídeo](https://www.tella.tv/video/projetos-de-algoritimos-or-grafos-1-egk2?t=13) |
+| [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree) | Difícil | [Vídeo](https://www.tella.tv/video/projetos-de-algoritimos-or-grafos-1-egk2?t=144) |
+| [1325. Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) | Médio | [Vídeo](https://www.tella.tv/video/projetos-de-algoritimos-or-grafos-1-egk2?t=340) |
 
 
 ## Screenshots
@@ -45,4 +45,11 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 
 
 ## Vídeo de apresentação do Trabalho 1
-[Vídeo]()
+
+**Arquivo:**
+
+[Vídeo](resources/video-explicativo.mp4)
+
+**Link:**
+
+[Vídeo](https://www.tella.tv/video/projetos-de-algoritimos-or-grafos-1-egk2?t=340)
