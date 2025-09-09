@@ -30,17 +30,17 @@ Este trabalho apresenta a resolução de 3 exercícios do Leet Code.
 
 ## Screenshots
 
-### Exercício 01 
+### Exercício 01 - 297
 
 ![297 - Foto da resolução no Leet Code](resources/297.png)
 
-### Exercício 02 
+### Exercício 02 - 834
 
 ![834 - Foto da resolução no Leet Code](resources/834.png)
 
-### Exercício 03 
+### Exercício 03 - 1325 
 
-![297 - Foto da resolução no Leet Code](resources/1325.png)
+![1325 - Foto da resolução no Leet Code](resources/1325.png)
 
 
 
